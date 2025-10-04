@@ -2,4 +2,7 @@ Milk
 Break
 Bananas
 Eggs
-
+Apples
+Cake
+Cookies
+Tomatoes
