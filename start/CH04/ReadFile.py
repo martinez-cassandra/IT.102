@@ -30,3 +30,12 @@ Write all answers to a file safely
 with open("hackme.txt", "w") as file:
     for line in answers:
         file.write(line + "\n")
+
+
+'''
+Creating a script to open a file and read the contents CURRENTLY NOT IN USE
+'''
+
+with open("hackme.txt", "r") as example:
+    content = example.read()
+    print(content)
